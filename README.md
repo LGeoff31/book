@@ -9,9 +9,3 @@ Testing the project
 - run - `npm run test` to execute unit tests.
 
 Happy viewing !
-# bookstore
-# book
-# book
-# book
-# dwadwa
-# dwadwa
