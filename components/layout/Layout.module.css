@@ -1,0 +1,7 @@
+.main {
+  padding-top: 100px;
+  margin: 3rem auto;
+  width: 90%;
+  position: relative;
+  z-index: 5;
+}
